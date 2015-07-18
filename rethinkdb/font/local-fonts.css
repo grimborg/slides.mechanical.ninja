@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Cantata ONE';
+  font-style: normal;
+  font-weight: 400;
+  src: url(cantata-one.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Imprima';
+  font-style: normal;
+  font-weight: 400;
+  src: url(imprima.ttf) format('truetype');
+}
